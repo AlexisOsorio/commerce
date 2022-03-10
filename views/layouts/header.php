@@ -153,7 +153,8 @@
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            <img src="" width="30" height="30" class="img-fluid img-circle"> Alexis Osorio
+            <img src="" width="30" height="30" class="img-fluid img-circle"> 
+            <samp>Alexis Osorio</samp>
           </a>
           <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
             <div class="dropdown-divider"></div>
