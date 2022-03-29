@@ -71,6 +71,7 @@
     <script src="../utils/js/bootstrap.bundle.min.js"></script>
     <!-- AdminLTE App -->
     <script src="../utils/js/adminlte.min.js"></script>
+    <script src="login.js"></script>
 </body>
 
 </html>
