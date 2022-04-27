@@ -5,7 +5,7 @@ $(document).ready(function() {
         let user = $('#user').val();
         let pass = $('#pass').val();
         $.post('../controllers/usersControllers.php');
-
+ 
         e.preventDefault();
     })
 })
